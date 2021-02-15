@@ -8,10 +8,15 @@ https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2-linux.html
 
 Configure AWS CLI:
 
-AWS configure 
+In terminal or Command prompt:
+
+
+- aws configure 
 
 AWS Access Key ID: [****************9UIK]:
+
 AWS Secret Access Key: [****************SSxdr]:
+
 Default region name: "<region>" example: eu-west-1
 Default output format: "<output>" example: json
 
