@@ -17,9 +17,9 @@ AWS Access Key ID: [****************9UIK]:
 
 AWS Secret Access Key: [****************SSxdr]:
 
-Default region name: "<region>" example: eu-west-1
+Default region name: "region" (example: eu-west-1)
 
-Default output format: "<output>" example: json
+Default output format: "output" (example: json)
 
 Terraform installation:
 
