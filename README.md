@@ -6,7 +6,8 @@ https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2-windows.html
 Linux:
 https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2-linux.html
 
-Configure AWS CLI:
+
+_**Configure AWS CLI**_:
 
 In terminal or Command prompt:
 
@@ -21,11 +22,13 @@ Default region name: "region" (example: eu-west-1)
 
 Default output format: "output" (example: json)
 
-Terraform installation:
+
+_**Terraform installation**_:
 
 https://k21academy.com/terraform-iac/terraform-installation-overview/
 
-Infrastructure Deployment:
+
+_**Infrastructure Deployment**_:
 
 - terraform init
 - terraform plan (for checking if there is no configuration related issue)
