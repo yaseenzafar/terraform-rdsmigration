@@ -7,7 +7,7 @@ Linux:
 https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2-linux.html
 
 
-### _**Configure AWS CLI**_:
+# _**Configure AWS CLI**_:
 
 In Terminal or Command prompt:
 
@@ -23,12 +23,12 @@ In Terminal or Command prompt:
  `Default output format: "output" (example: json)`
 
 
-### _**Terraform installation**_:
+# _**Terraform installation**_:
 
 https://k21academy.com/terraform-iac/terraform-installation-overview/
 
 
-### _**Infrastructure Deployment**_:
+# _**Infrastructure Deployment**_:
 
 `terraform init`
 
