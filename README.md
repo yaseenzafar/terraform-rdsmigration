@@ -12,15 +12,15 @@ _**Configure AWS CLI**_:
 In terminal or Command prompt:
 
 
-`aws configure`
+ `aws configure`
 
- AWS Access Key ID: [****************9UIK]:
+ `AWS Access Key ID: [****************9UIK]:`
 
- AWS Secret Access Key: [****************SSxdr]:
+ `AWS Secret Access Key: [****************SSxdr]:`
 
- Default region name: "region" (example: eu-west-1)
+ `Default region name: "region" (example: eu-west-1)`
 
- Default output format: "output" (example: json)`
+ `Default output format: "output" (example: json)`
 
 
 _**Terraform installation**_:
