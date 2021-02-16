@@ -12,7 +12,7 @@ _**Configure AWS CLI**_:
 In terminal or Command prompt:
 
 
-- aws configure 
+'aws configure' 
 
 AWS Access Key ID: [****************9UIK]:
 
