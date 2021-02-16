@@ -1,4 +1,4 @@
-**Setup AWS CLI**:
+_**Setup AWS CLI**_:
 
 Windows:
 https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2-windows.html
