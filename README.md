@@ -9,7 +9,7 @@ https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2-linux.html
 
 _**Configure AWS CLI**_:
 
-In terminal or Command prompt:
+In Terminal or Command prompt:
 
 
  `aws configure`
