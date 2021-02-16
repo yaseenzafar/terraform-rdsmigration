@@ -23,7 +23,7 @@ In Terminal or Command prompt:
  `Default output format: "output" (example: json)`
 
 
-# _**Terraform installation**_:
+# _**Terraform Installation**_:
 
 https://k21academy.com/terraform-iac/terraform-installation-overview/
 
