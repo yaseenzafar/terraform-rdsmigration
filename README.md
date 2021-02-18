@@ -32,7 +32,7 @@ https://k21academy.com/terraform-iac/terraform-installation-overview/
 
 `terraform init`
 
-`terraform plan (for checking if there is no configuration related issue)`
+`terraform plan (for checking if there is any configuration related issue)`
 
 `terraform deploy -auto-approve (if getting error run this second time)`
 
